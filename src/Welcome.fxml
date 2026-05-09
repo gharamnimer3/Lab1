@@ -7,7 +7,7 @@
 <?import javafx.scene.paint.*?>
 <?import javafx.scene.text.*?>
 
-<StackPane prefHeight="268.0" prefWidth="454.0" style="-fx-background-color: linear-gradient(to bottom, #7daf8d, #cdecd7, #8fd3a7, #52b788);" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="LoginController">
+<StackPane prefHeight="268.0" prefWidth="454.0" style="-fx-background-color: linear-gradient(to bottom, #7daf8d, #ceedcb, #ade8c0, #618165);" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="LoginController">
 
     <padding>
         <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
